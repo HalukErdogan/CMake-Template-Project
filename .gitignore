@@ -15,6 +15,5 @@ CTestTestfile.cmake
 _deps
 
 # Vcpkg
-vcpkg/
 vcpkg-manifest-install.log
 vcpkg_installed/
