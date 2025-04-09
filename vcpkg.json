@@ -1,5 +1,10 @@
 {
     "dependencies": [
-        "fmt"
+        "fmt",
+        "entt",
+        "raylib",
+        "spdlog",
+        "imgui",
+        "usd"
     ]
 }
